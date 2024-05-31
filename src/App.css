@@ -1,0 +1,28 @@
+/* Default styles for the app container */
+.app-container {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+/* Light mode styles */
+.light-mode {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* Dark mode styles */
+.dark-mode {
+  background-color: #242424;
+  color: #ffffff;
+}
+
+/* Ensure the container spans full width and height */
+.full-width-height {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
