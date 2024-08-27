@@ -6,6 +6,10 @@ This is a **Random Quote Machine** project built to meet the specifications of t
 
 You can see the app in action [here](https://main--heartfelt-tartufo-9edc51.netlify.app/).
 
+![image](https://github.com/user-attachments/assets/4e7827e5-8c17-4939-bb16-1f2eea5d5967)
+
+
+
 ## 🛠️ Project Features
 
 - **Random Quote Generation**: Fetches a new quote each time you press the button.
